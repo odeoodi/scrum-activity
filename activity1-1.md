@@ -1,4 +1,4 @@
-## INVEST criteria
+# INVEST criteria
 - Independent: does not depend on another story
 - Negotiable: can be discussed about
 - Valuable: value to end-users or stakeholders
@@ -6,7 +6,7 @@
 - Small: should fit in a single sprint
 - Testable: clear acceptance criteria
 
-# User Registration and Login:
+## User Registration and Login:
 
 
 1. As a new user, I want to easily sign up for an account using my email and password, so that I can start shopping online.
@@ -33,7 +33,7 @@
     S: Yes.
     T: Yes. 
 
-# Buying a Product and Managing Cart:
+## Buying a Product and Managing Cart:
 4. As a logged-in user, I want to browse products, view detailed product pages, and easily add items to my shopping cart.
     I: Could be more independent, because now it has a lot of actions.
     N: Can be negotiated.
@@ -42,7 +42,7 @@
     S: Too big for one sprint. 
     T: Yes, each part can be tested.
 
-# Removing Products from Cart:
+## Removing Products from Cart:
 5. As a customer, I want the ability to easily remove individual items or clear my entire cart with a single action.
     I: Does not depend on other stories, but focuses on two actions.
     N: Yes, details can be negotiated.
@@ -51,7 +51,7 @@
     S: Yes.
     T: Yes, straightforward actions. 
 
-# Administrator role
+## Administrator role
 6. As an administrator, I want to manage user reviews and ratings, including the ability to moderate or remove inappropriate content.
     I: Yes, does not depend on other stories.
     N: Yes, you can refine the story.
@@ -60,7 +60,7 @@
     S: Yes, fits in one sprint.
     T: Yes.
 
-# Adding Own Product:
+## Adding Own Product:
 7. As a seller, I need a straightforward process to set up my payment preferences and receive payments for the products I've sold.
     I: Yes.
     N: Yes, preferences can be negotiated.
